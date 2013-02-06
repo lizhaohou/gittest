@@ -14,3 +14,7 @@ git push -u origin master
 
 fork the others' project
 git clone git@github.com:user/project.git
+
+
+add configuration
+git config --global i18n.commitencoding utf-8
