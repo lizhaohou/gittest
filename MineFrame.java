@@ -1,4 +1,7 @@
-/**
+Yes I changed something!
+	
+	
+			/**
  * MineSweeper main program in Java
  * Program developed by Lizhao HOU
  * Email : lizhao.hou@supelec.fr
