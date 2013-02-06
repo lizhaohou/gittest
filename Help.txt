@@ -1,0 +1,16 @@
+Since SSH has already be done, here I will list some of the commands that we will use in the commitment of repository
+
+git config --global user.name "Lizhao Hou"
+git config --global user.email lizhao.hou@gmail.com
+
+mkdir whatever
+cd whatever
+git init
+git add FILENAME
+git commit -m 'first commit'
+git remote add origin git@github.com:lizhaohou/whatever.git
+git push -u origin master
+
+
+fork the others' project
+git clone git@github.com:user/project.git
