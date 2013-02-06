@@ -1,4 +1,5 @@
-Me too/**
+Me too
+	6th change/**
  * MineSweeper button class
  * The description of MineButton index:
  * 		Number 0~9 means clicked: 0~8 the number of mines around it, 9 is mine(clicked).
